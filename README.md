@@ -9,7 +9,8 @@ Here are the parts (Look at the wiring diagram to see how to set it up):
 - 220 ohm resistors
 
 
-Here is the wiring diagram:<img width="434" height="595" alt="Screenshot 2026-06-12 at 1 13 31 PM" src="https://github.com/user-attachments/assets/9f48129f-b57a-4c74-8ec0-d1ed62d08776" />
+Here is the wiring diagram:
+<img width="434" height="595" alt="Screenshot 2026-06-12 at 1 13 31 PM" src="https://github.com/user-attachments/assets/9f48129f-b57a-4c74-8ec0-d1ed62d08776" />
 
 Here are some images:
 <img width="4032" height="3024" alt="IMG_0526" src="https://github.com/user-attachments/assets/760eb6b7-ed7c-4a52-ac15-6cd097c8c183" />
