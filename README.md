@@ -1,6 +1,14 @@
 # Password-Checker
 A keypad that lights up green when you have the correct password, and red if you enter it wrong. It is portable with dual power supplies, which makes it possible to go anywhere!
 
+Here are the parts (Look at the wiring diagram to see how to set it up):
+- Arduino Nano
+- Mini Breadboard
+- 4x4 Matrix Membrane Keypad
+- Jumper Wires
+- 220 ohm resistors
+
+
 Here is the wiring diagram:<img width="434" height="595" alt="Screenshot 2026-06-12 at 1 13 31 PM" src="https://github.com/user-attachments/assets/9f48129f-b57a-4c74-8ec0-d1ed62d08776" />
 
 Here are some images:
